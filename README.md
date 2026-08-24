@@ -79,6 +79,16 @@ The model includes a DAX-based financial analysis framework covering:
 
   [View DAX Measures Documentation](Images/Measures/)
 
+### EBITDA Calculation
+
+EBITDA was calculated using the methodology commonly applied by PCR (Pacific Credit Rating) in its credit analysis reports:
+
+**EBITDA = Operating Income + Depreciation + Taxes**
+
+Because audited financial statements do not always disclose EBITDA as a separate line item, a custom DAX measure was developed to reconstruct the indicator using information available in the financial statements.
+
+This approach was adopted to maintain consistency with the methodology frequently used in local credit risk analysis and debt issuance evaluations.
+
 ## Skills Demonstrated
 - Financial Statement Analysis
 - Power BI & Power Query
