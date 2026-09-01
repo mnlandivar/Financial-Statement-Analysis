@@ -12,7 +12,11 @@ The initial PDF-to-Excel transformation process was assisted by Microsoft Copilo
 
 **Assets = Liabilities + Equity**
 
-Once validated, the data was transformed in Power Query and modeled in Power BI.
+During the validation process, special attention was given to sign conventions. Several financial statement accounts were originally reported with negative values according to their accounting presentation format.
+
+To ensure consistency across financial reporting, DAX calculations, and ratio analysis, account signs were reviewed and adjusted when necessary as part of the financial data validation and reconciliation process.
+
+This step was essential to maintain the integrity of financial KPIs, trend analysis, and statement-level calculations throughout the model. Once validated, the data was transformed in Power Query and modeled in Power BI.
 
 The project focuses on building a complete end-to-end workflow covering financial statement extraction, validation, standardization, modeling, and analysis.
 
