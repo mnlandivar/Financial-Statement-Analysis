@@ -202,6 +202,26 @@ Additional visualizations include:
 The objective of this page is to provide a detailed view of the company's cash generation, cash utilization, and cash flow sustainability by analyzing operating, investing, and financing activities over time.
 ![Cash Flow Dashboard](Images/FinancialStatements/CashFlow/CashFlowV1.png)
 
+## Key Financial Insights
+
+### Liquidity
+
+The asset structure indicates this is a commercial (trading) company. The current ratio remained above 1.4 across all years analyzed. The quick ratio remained above 1 in every period, indicating no strong dependence on inventory within current assets. Throughout the 6 fiscal years, the company has shown no difficulty meeting short-term financial obligations.
+
+### Profitability
+
+The last two years show a recovery in gross margin, driven by a relative decrease in COGS (Cost of Goods Sold). EBITDA margin reaches its peak in 2025, but net margin does not follow the same trend.
+
+The net margin contraction in 2025 (from 5.02% to 2.55%) is not explained by operating deterioration, but by the disappearance of a non-recurring gain that supported the 2024 result (Bs7.5M in additional other income). Removing that effect reveals a more concerning structural trend: financial expenses grew linearly and consistently over the 6 fiscal years analyzed, from Bs5.2M in 2020 to Bs14.3M in 2025 (+175%), suggesting a progressive increase in leverage or cost of debt that is consistently compressing net profitability, independent of one-off events.
+
+### Cash Flow
+
+Operating cash flow shows high volatility, ranging from -Bs22.7M (2022) to +Bs44.5M (2023) over the 6-year period, with no clear stabilizing trend. This inconsistency between accounting results and actual cash generation warrants monitoring, particularly in a context of rising financial expenses that require sustained liquidity to service debt.
+
+### Conclusion
+
+The company maintains a solid and stable liquidity position, but net profitability is deteriorating due to non-operating expenses, and cash generation does not consistently track accounting results. This divergence between reported earnings and cash flow warrants ongoing monitoring.
+
 ## Power BI File
 
 The complete Power BI report is included in this repository and is available for download.
