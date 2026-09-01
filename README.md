@@ -84,6 +84,7 @@ The model includes a DAX-based financial analysis framework covering:
   [View DAX Measures Documentation](Images/Measures/)
 
 ### EBITDA Calculation
+Because depreciation and tax-related accounts were reported with negative signs according to the original financial statement presentation, these values were incorporated into the calculation following the model's standardized sign convention.
 
 EBITDA was calculated using the methodology commonly applied by PCR (Pacific Credit Rating) in its credit analysis reports:
 
