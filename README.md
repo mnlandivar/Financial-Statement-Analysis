@@ -79,7 +79,8 @@ The model includes a DAX-based financial analysis framework covering:
 - Profitability: Gross Margin, EBITDA Margin, Net Margin, ROA, ROE
 - Cash Flow: Operating, Investing, and Financing Cash Flows
 - Trend Analysis: Year-over-Year and absolute change analysis
-- The DAX measure structure is documented through dedicated measure views included in the repository.
+
+The DAX measure structure is documented through dedicated measure views included in the repository.
 
   [View DAX Measures Documentation](Images/Measures/)
 
