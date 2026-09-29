@@ -6,6 +6,15 @@ Financial Statement Analysis dashboard developed in Power BI using audited finan
 
 [Download the Power BI report](Files/Financial-Statement-Analysis.pbix)
 
+## Project Status
+**Version 1.0 Complete**
+
+The current version includes four analytical pages covering the three primary financial statements, including an executive overview page.
+
+The project is supported by a dimensional financial model, bilingual account standardization framework, DAX-based financial analysis and ratio framework, financial reporting matrices, waterfall analysis, and multi-year trend analysis.
+
+This version represents a complete end-to-end workflow covering financial statement extraction, validation, transformation, modeling, visualization, and financial analysis in Power BI.
+![Overview Dashboard](Images/Overview/OverviewV1.png)
 
 ## About the Project
 This project started with a simple objective: transform audited financial statements into a structured analytical model capable of supporting financial analysis inside Power BI.
@@ -44,15 +53,6 @@ Audited Financial Statements
             ↓
      Power BI Report
 ```
-## Project Status
-**Version 1.0 Complete**
-
-The current version includes four analytical pages covering the three primary financial statements, including an executive overview page.
-
-The project is supported by a dimensional financial model, bilingual account standardization framework, DAX-based financial analysis and ratio framework, financial reporting matrices, waterfall analysis, and multi-year trend analysis.
-
-This version represents a complete end-to-end workflow covering financial statement extraction, validation, transformation, modeling, visualization, and financial analysis in Power BI.
-![Overview Dashboard](Images/Overview/OverviewV1.png)
 
 ## Data Model
 Star schema model composed of:
