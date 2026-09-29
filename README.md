@@ -1,6 +1,12 @@
 # Financial Statement Analysis (FSA)
 Financial Statement Analysis dashboard developed in Power BI using audited financial statements as the only source of information.
 
+## Files
+[Download the Financial Statements Dataset](Files/Financial_Statements.xlsx)
+
+[Download the Power BI report](Files/Financial-Statement-Analysis.pbix)
+
+
 ## About the Project
 This project started with a simple objective: transform audited financial statements into a structured analytical model capable of supporting financial analysis inside Power BI.
 
@@ -227,15 +233,3 @@ Operating cash flow shows high volatility, ranging from -Bs22.7M (2022) to +Bs44
 ### Conclusion
 
 The company maintains a solid and stable liquidity position, but net profitability is deteriorating due to non-operating expenses, and cash generation does not consistently track accounting results. This divergence between reported earnings and cash flow warrants ongoing monitoring.
-
-## Power BI File
-
-The complete Power BI report is included in this repository and is available for download.
-
-The `.pbix` file contains the complete data model, Power Query transformations, DAX measures, calculations, and dashboard pages developed for this project.
-
-**Power BI Desktop is required to open the report.**
-
-[Download the Financial Statements Dataset](Files/Financial_Statements.xlsx)
-
-[Download the Power BI report](Files/Financial-Statement-Analysis.pbix)
