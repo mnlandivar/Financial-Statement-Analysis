@@ -14,7 +14,7 @@ The current version includes four analytical pages covering the three primary fi
 The project is supported by a dimensional financial model, bilingual account standardization framework, DAX-based financial analysis and ratio framework, financial reporting matrices, waterfall analysis, and multi-year trend analysis.
 
 This version represents a complete end-to-end workflow covering financial statement extraction, validation, transformation, modeling, visualization, and financial analysis in Power BI.
-![Overview Dashboard](Images/Overview/OverviewV1.png)
+![Overview Dashboard](Images/Overview/Overview.png)
 
 ## About the Project
 This project started with a simple objective: transform audited financial statements into a structured analytical model capable of supporting financial analysis inside Power BI.
