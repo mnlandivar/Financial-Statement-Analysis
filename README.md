@@ -236,4 +236,4 @@ The `.pbix` file contains the complete data model, Power Query transformations, 
 
 **Power BI Desktop is required to open the report.**
 
-[Download the Power BI report](File/Financial-Statement-Analysis.pbix)
+[Download the Power BI report](Files/Financial-Statement-Analysis.pbix)
