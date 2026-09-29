@@ -2,9 +2,9 @@
 Financial Statement Analysis dashboard developed in Power BI using audited financial statements as the only source of information.
 
 ## Files
-[Download the Financial Statements Dataset](Files/Financial%20Statements.xlsx)
-
 [Download the Power BI report](Files/Financial-Statement-Analysis.pbix)
+
+[Download the Financial Statements Dataset](Files/Financial%20Statements.xlsx)
 
 ## Project Status
 **Version 1.0 Complete**
