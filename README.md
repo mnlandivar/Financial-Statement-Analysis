@@ -15,7 +15,7 @@ The project is supported by a dimensional financial model, bilingual account sta
 
 This version represents a complete end-to-end workflow covering financial statement extraction, validation, transformation, modeling, visualization, and financial analysis in Power BI.
 ![Overview Dashboard](Images/Overview/Overview.png)
-## Key higlights
+## Key highlights
 ✔ Audited Financial Statements
 ✔ Financial Data Validation
 ✔ Star Schema
