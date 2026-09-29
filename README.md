@@ -15,6 +15,14 @@ The project is supported by a dimensional financial model, bilingual account sta
 
 This version represents a complete end-to-end workflow covering financial statement extraction, validation, transformation, modeling, visualization, and financial analysis in Power BI.
 ![Overview Dashboard](Images/Overview/Overview.png)
+## Key higlights
+✔ Audited Financial Statements
+✔ Financial Data Validation
+✔ Star Schema
+✔ DAX Financial Framework
+✔ Income Statement Waterfall
+✔ Financial Ratio Analysis
+✔ Cash Flow Analysis
 
 ## About the Project
 This project started with a simple objective: transform audited financial statements into a structured analytical model capable of supporting financial analysis inside Power BI.
